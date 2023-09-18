@@ -13,8 +13,14 @@ good tool for twitch drop
 
 4- have fun
 
-# you need to 
+# need to 
 1- python
 
 
 2- edga
+
+
+3- install auto claim drop https://chrome.google.com/webstore/detail/automatic-twitch-drops-mo/kfhgpagdjjoieckminnmigmpeclkdmjm
+
+
+# this is beta 
