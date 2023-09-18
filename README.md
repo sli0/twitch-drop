@@ -1,14 +1,14 @@
 # twitch-drop
 good tool for twitch drop
 
-# how to user
+# how to use
 1- you need to install python
 
 
 2- install packs
 
 
-3- edit liks.txt example name hours like : sli4_ 2
+3- edit liks.txt example username hours like : sli4_ 2
 
 
 4- have fun
