@@ -24,3 +24,5 @@ good tool for twitch drop
 
 
 # this is beta 
+
+our discord : https://discord.gg/p5exCAdQYf
