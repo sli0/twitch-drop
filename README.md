@@ -6,9 +6,15 @@ good tool for twitch drop
 
 
 2- install packs
+
+
 3- edit liks.txt example name hours like : sli4_ 2
+
+
 4- have fun
 
 # you need to 
 1- python
+
+
 2- edga
